@@ -60,5 +60,5 @@ Simple, accurate, and straight to the point.
 
 • **No Lag:** It is super lightweight. It doesn't slow down your device and closes cleanly the exact second you hit Enter or Ctrl+C.
 
-• Tracks how long your phone has been running since the last restart.
+Tracks how long your phone has been running since the last restart.
 ---
