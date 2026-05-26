@@ -48,4 +48,5 @@ chmod +x check.py && python check.py
 <img width="1067" height="1008"
 ```
 
-alt="Picsart_26-05-26_18-25-56-095" src="https://github.com/user-attachments/assets/db8fb9ec-7bbb-429d-9798-952b7ce7afca" />
+![Alt text](https://github.com/your-username/your-repo-name/blob/main/path/to/your/image.png?raw=true)
+
