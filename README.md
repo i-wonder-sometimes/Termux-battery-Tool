@@ -6,6 +6,9 @@ Have you ever had your phone showing the charging icon on top, but your charging
 
 Most phone apps won't tell you why, but this tool tells you the absolute truth about your charger and your cable on the spot.
 
+<img src="https://github.com/user-attachments/assets/db8fb9ec-7bbb-429d-9798-952b7ce7afca">
+
+
 ---
 
 ## 🎯 Test Your Cable and Charger Block
@@ -45,9 +48,6 @@ Just paste these two commands into Termux:
 ```bash
 pkg install termux-api
 chmod +x check.py && python check.py
-<img width="1067" height="1008"
 ```
 
-
-<img src="https://github.com/user-attachments/assets/db8fb9ec-7bbb-429d-9798-952b7ce7afca">
 
