@@ -1,22 +1,22 @@
 # Termux-battery-Tool
 Test your charger, spot broken cables, and monitor phone temperature.
-🛠️ Installation & Usage
+
+• **🛠️ Installation & Usage**
 
 First install Python and Termux API support:
-
+```
 pkg update -y
 pkg install python termux-api -y
-
-Make sure you also install the Termux:API app on your phone.
-
-Then clone the repo and run the tool:
-
+```
+1: Make sure you also install the Termux:API app on your phone.
+~ Then clone the repo and run the tool:
+```
 git clone https://github.com/webcodepirat-netizen/Termux-battery-Tool
 cd Termux-battery-Tool
 python check.py
-
-
-Have you ever had your phone showing the charging icon on top, but your charging percentage doesn't move or even starts to go down while plugged in? 
+```
+Ever had your phone showing the charging icon on top, but your charging percentage doesn't move or even starts to go down while plugged in? this tool is for you. 
+it will tell you exactly whats going on. either will go up or will not go up.
 
 Most phone apps won't tell you why, but this tool tells you the absolute truth about your charger and your cable on the spot.
 
