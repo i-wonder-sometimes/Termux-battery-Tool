@@ -1,6 +1,8 @@
 # Termux-battery-Tool
 Test your charger, spot broken cables, and monitor phone temperature.
 
+<img src="https://github.com/user-attachments/assets/db8fb9ec-7bbb-429d-9798-952b7ce7afca">
+
 • **🛠️ Installation & Usage**
 
 First install Python and Termux API support:
@@ -23,9 +25,6 @@ cd Termux-battery-Tool
 python check.py
 ```
 This tool tells you the absolute truth about your charger and your cable on the spot.
-
-<img src="https://github.com/user-attachments/assets/db8fb9ec-7bbb-429d-9798-952b7ce7afca">
-
 
 ---
 
