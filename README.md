@@ -35,13 +35,17 @@ This script is built to do one main thing: show you if your charging gear is bro
 • **Spot Bad Cables & Weak Bricks:**
 If your cable is ripped inside or your wall plug is cheap, your phone will say "Charging" but the battery will stay stuck or drop. This tool catches that immediately.
 
+• **Last Phone Restart/Uptime:**
+Shows exactly how long your phone has been running since the last reboot or shutdown. Useful for checking device stability, recent crashes, overheating resets, or simply knowing when your phone was last restarted.
+
 • **The 3 Simple Rules:**
 
 🟢 **YES. It WILL go up.**
 Your charger is good. Your battery is actually filling up right now.
 
 🟡 **It wont move.**
-Your charger is way too weak. The battery percentage is going to stay stuck.
+Your charger is too weak to properly charge the phone, so the battery percentage may stay stuck for a long time.
+This can also appear normally when your phone already reached 100%, because many phones stop charging and pull almost 0 current to protect the battery.
 
 🔴 **NO. It will not go up.**
 Your phone is using power faster than the plug can give it. Your phone is going to drain and die while plugged in.
@@ -56,7 +60,5 @@ Simple, accurate, and straight to the point.
 
 • **No Lag:** It is super lightweight. It doesn't slow down your device and closes cleanly the exact second you hit Enter or Ctrl+C.
 
-• Tracks how long your phone has been running since the last restart
-
-• Shows last phone reboot uptime
+• Tracks how long your phone has been running since the last restart.
 ---
