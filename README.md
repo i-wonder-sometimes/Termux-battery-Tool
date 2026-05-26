@@ -20,7 +20,7 @@ https://github.com/termux/termux-api
 
 ~ Then clone the repo and run the tool:
 ```
-git clone https://github.com/webcodepirat-netizen/Termux-battery-Tool
+git clone https://github.com/i-wonder-sometimes/Termux-battery-Tool.git
 cd Termux-battery-Tool
 python check.py
 ```
