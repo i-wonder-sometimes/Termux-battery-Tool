@@ -43,4 +43,4 @@ Just paste these two commands into Termux:
 
 ```bash
 pkg install termux-api
-chmod +x 3.py && python 3.py
+chmod +x check.py && python check.py
