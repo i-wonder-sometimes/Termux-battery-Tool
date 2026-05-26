@@ -8,7 +8,10 @@ First install Python and Termux API support:
 pkg update -y
 pkg install python termux-api -y
 ```
-1: Make sure you also install the Termux:API app on your phone.
+1: Make sure you also install the Termux:API app on your phone
+You can find the apk here:
+https://github.com/termux/termux-api
+
 ~ Then clone the repo and run the tool:
 ```
 git clone https://github.com/webcodepirat-netizen/Termux-battery-Tool
