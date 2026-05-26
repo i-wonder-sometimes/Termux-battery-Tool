@@ -8,6 +8,10 @@ First install Python and Termux API support:
 pkg update -y
 pkg install python termux-api -y
 ```
+Install git if you havent:
+```
+pkg install git
+```
 1: Make sure you also install the Termux:API app on your phone
 You can find the apk here:
 https://github.com/termux/termux-api
@@ -18,10 +22,7 @@ git clone https://github.com/webcodepirat-netizen/Termux-battery-Tool
 cd Termux-battery-Tool
 python check.py
 ```
-Ever had your phone showing the charging icon on top, but your charging percentage doesn't move or even starts to go down while plugged in? this tool is for you. 
-it will tell you exactly whats going on. either will go up or will not go up.
-
-Most phone apps won't tell you why, but this tool tells you the absolute truth about your charger and your cable on the spot.
+This tool tells you the absolute truth about your charger and your cable on the spot.
 
 <img src="https://github.com/user-attachments/assets/db8fb9ec-7bbb-429d-9798-952b7ce7afca">
 
